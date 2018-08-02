@@ -13,8 +13,8 @@ app.use('/api', router);
 
 app.listen(8008, function() {
   console.log(
-    '       A..A      \"Meownsieur,\n',
-    '\\    ( \'x\')        proxy server is up and running.\"\n',
-    ' \\(      )                              -french cat\n',
+    '       A..A      \"Excuse meow,\n',
+    '\\    ( ^x^)        proxy server is up and running.\"\n',
+    ' \\(      )                              -polite cat\n',
     '   VV  VV');
 });
